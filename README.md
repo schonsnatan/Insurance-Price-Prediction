@@ -9,6 +9,7 @@ This project aims to predict medical insurance charges based on various factors 
 - Linear Regression<br>
 - Polynomial Regression (Pipeline for feature transformation)<br>
 - Ridge Regression (To handle overfitting)<br>
+
 ✅ Performance Metrics: R² score, Mean Squared Error, and graphical comparison of real vs. predicted values.<br>
 ✅ Deployment: Model saved using pickle for future predictions.<br>
 
