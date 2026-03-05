@@ -1,8 +1,8 @@
-# Medical Insurance Cost Prediction 🚑💰
+# Medical Insurance Cost Prediction
 
 This project aims to predict medical insurance charges based on various factors such as age, BMI, smoking habits, and region using machine learning regression models.
 
-## 📌 Features & Workflow
+## Features & Workflow
 ✅ Data Preprocessing: Handling missing values, normalizing data, and feature engineering.<br>
 ✅ Exploratory Data Analysis (EDA): Visualizing relationships between variables using regression plots and boxplots.<br>
 ✅ Model Training & Evaluation:<br>
